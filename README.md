@@ -7,7 +7,7 @@ I'm passionate about machine learning and intelligent systems and love deliverin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phuc-van-5b00663b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Phuc Van" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/phuc-van-5b00663b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Phuc Van" height="30" width="40" /></a>
 <a href="https://instagram.com/phucvan0078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phucvan0078" height="30" width="40" /></a>
 </p>
 
